@@ -1,0 +1,125 @@
+2800-4300 Wörter
+Protokoll audruck wo?
+selbständigkeits erklärungblatt wo? wie genau?
+
+Physikalische Analyse eines Erde–Mond-Transportsystems mit Orbitalschleuder: Umlaufbahnen, Energiebedarf und Belastungsgrenzen
+
+Kann ein kombiniertes Transportsystem aus LEO, LLO und einer mondbasierten Orbitalschleuder physikalisch effizient und logistisch realisierbar sein, und für welche Transportgüter bzw. Personen ist es geeignet?
+
+Deckblatt wie aussehen? bild?
+1.1 motivation discord
+"Der Mond." Vorwort artig
+zukunftsartig problem
+1.2 simulationsauswahl
+die Datei 1. teil
+
+2. konzeptvorstellung Space Tether
+2.1 LEO (Low Earth Orbit)
+bereits gebaute nennen? spinlaunch? grundkontept mit Drehung, formel einbauen? desmos screen? videos aus jno wie, kein manim?
+eigenanteil das bauen in jno und zeigen? solorpanele und elektrische sachen wegen jno Einschränkung der Drehung?
+2.2 LLO (Low Lunar Orbit)
+analog nur beim mond
+2.3 Mondbasierte Orbitalschleuder
+bau auf dem Mond, liegend vs stehen, liste mit vor und Nachteile, ist das zu viel Erdkunde? quellen? wegen logig weglassen oder für jeden satz etwas finden? wäre besser alles am ende anzugeben oder quellenverzeichnis und im text nur zahlen haben bzw. am ende der seite? 
+
+3. Orbitalschleuder auf dem Mond:
+als 3tes element von Leo llo und hier am boden, bauen und station errichten?
+3.1 Benötigte Abwurfgeschwindigkeit
+formel einfach aber wie darstellen zitieren, Beispiele
+Flugbahn zeigen mit einem dummy payloaf
+3.2 Schleuderlänge vs. Beschleunigung
+Varianz in der länge, Messreihe für g's machen um was zu zeigen? formelnachweis oder als datenerhebung für mensch Eignung?
+3.3 benötigte kinetische Energie
+für batterie verbrauch oder lösung des dockings in 100m/s, Methode des aufzugs
+3.4 Vorteil der geringen Mondgravitation
+einfache ereichbarkeit vom boden und keine atmospäre, vergleich wie viel mehr man in der erde wegen luft bracht, hier kann man auch jno nehmen und dragloss ploten
+3.5 Abschussrichtung und Fenster
+ksc/ slc40, 39a orbit parameter Übereinstimmung zum erreichen passender bahnen, Manöver Planung um dV zu sehen und wie man fliegt dann in jno.
+
+4. Wie sehen sichere und effiziente Transferbahnen zwischen Erde und Mond aus?
+4.1 direkter Transfer
+hohmann zu Mond und erde
+4.2 energiearmer Transfer
+schwache Stabilität gibt es nicht, arm länge maximum und sinnnvolle dreh v der spitze so das ablassen auf die Oberfläche sinn macht
+4.3 schneller Transfer
+Risiko Abwägung wie bei apollo
+4.4 sicherer Transfer
+free return mission aber zeit, Abwägungen machen Erdkunde problem
+
+5. g‑Kräfte & Eignung für Menschen:
+5.1 Welche g‑Kräfte treten auf?
+analse auf mit messen? länge ändern oder so, gestze prüfen wie Achterbahn oder zentifugen, f1, kampf jets
+Vergleich:
+5.2 Mensch
+5.3 empfindliche Fracht
+5.4 Rohstoffe
+5.5 Wie könnte man die Schleuder „menschengeeignet“ machen?
+lösungen machen, erstmal frachten zum bauen kleine schnelle und dann wenn die grß sind Eignung für menschen, größe des transports wie viel kann überhaupt klappen,
+
+
+
+
+
+antwort:
+2800-4300 Wörter
+Protokoll audruck vom lehrer
+selbständigkeits erklärungblatt copy paste macheb
+
+Physikalische Analyse eines Erde–Mond-Transportsystems mit Orbitalschleuder: Umlaufbahnen, Energiebedarf und Belastungsgrenzen
+
+Kann ein kombiniertes Transportsystem aus LEO, LLO und einer mondbasierten Orbitalschleuder physikalisch effizient und logistisch realisierbar sein, und für welche Transportgüter bzw. Personen ist es geeignet?
+
+Deckblatt copy paste kein bild
+1.1 motivation discord
+"Der Mond." Vorwort artig
+1.2 simulationsauswahl
+die Datei 1. teil
+ist i.o.
+sim erklären
+ziel des systems tether, bezug leitfrage
+
+
+2. konzeptvorstellung Space Tether
+2.1 LEO (Low Earth Orbit)
+bereits gebaute nennen, u.a spinlaunch. grundkontept mit Drehung, formel einbauen aus metzler. desmos screen als plotter und screens. videos aus jno in drive für Manöver etc.
+eigenanteil das bauen in jno mit u.a. solorpanele und elektrische sachen. jno Einschränkung der Drehung erklären und sim erklären.
+2.2 LLO (Low Lunar Orbit)
+analog nur beim mond
+2.3 Mondbasierte Orbitalschleuder
+bau auf dem Mond, liegend vs stehen, liste mit vor und Nachteile, ist gute Abwägung.
+
+3. Orbitalschleuder auf dem Mond:
+als 3tes element von Leo llo und hier am boden, keine infra muss gezeigt sein.
+3.1 Benötigte Abwurfgeschwindigkeiten
+formel und Abwägung geigneter v's
+Flugbahn zeigen mit einem payload, oder mission darstellen.
+3.2 Schleuderlänge vs. Beschleunigung
+Varianz in der länge, Messreihe für g's machen um formelnachweis oder als datenerhebung für mensch Eignung. desmos.
+3.3 benötigte kinetische Energie
+für batterie verbrauch oder lösung des dockings in 100m/s, Methode des Aufzugs, docking Manöver zeigen bei rotation
+3.4 Vorteil der geringen Mondgravitation
+einfache ereichbarkeit vom boden und keine atmospäre, vergleich wie viel mehr man in der erde wegen luft bracht, dragloss ploten, eher extra wenn noch platz
+3.5 Abschussrichtung und Fenster
+ksc/ slc40, 39a keine orbit parameter, Manöver Planung um dV zu sehen und wie man fliegt dann in jno, erspahnisse -> ziel des systems
+
+4. Wie sehen sichere und effiziente Transferbahnen zwischen Erde und Mond aus?
+4.1 direkter Transfer
+hohmann zu Mond und erde
+4.2 energiearmer Transfer
+schwache Stabilität gibt es nicht, arm länge maximum und sinnnvolle dreh v der spitze so das ablassen auf die Oberfläche sinn macht
+4.3 schneller Transfer
+Risiko Abwägung wie bei apollo
+4.4 sicherer Transfer
+free return mission aber zeit, Abwägungen machen i.o.
+
+5. g‑Kräfte & Eignung für Menschen:
+5.1 Welche g‑Kräfte treten auf?
+analse auf mit messen eines drood. länge ändern oder so, gestze prüfen wie kampf jets was ist außhaltbar
+Vergleich:
+5.2 Mensch
+5.3 empfindliche Fracht
+5.4 Rohstoffe
+5.5 Wie könnte man die Schleuder „menschengeeignet“ machen?
+aufbau des systems evtl. aber kurz halten
+lösungen machen, erstmal frachten zum bauen kleine schnelle und dann wenn die grß sind Eignung für menschen, größe des transports wie viel kann überhaupt klappen,
+
